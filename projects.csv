@@ -1,0 +1,19 @@
+schema_version,last_updated,id,name,project_type,category,status,deadline,deadline_type,preferred_color_hex,short_description,tags
+1,2026-07-31,WP_27_PriorityCompass,PriorityCompass,software,Personal Productivity,active,2026-07-30,target,#16A34A,Build an application that scores projects and generates weekly priority graphs and reports.,python;prioritization;productivity
+1,2026-07-31,003_First_Paper,First Paper,phd_research,Research,active,2026-09-15,target,#2563EB,Develop and submit the first research paper for the PhD project.,phd;research;paper
+1,2026-07-31,007_BookCoverKindel_Epub,BookCoverKindel Epub,software,,active,,,,,python
+1,2026-07-31,PP_008_Finn-Reader,Finn Reader,software,,active,,,,,python
+1,2026-07-31,WP_029_InsightLens,InsightLens,software,,active,,,,An AI-assisted app that analyzes selected text.,typescript
+1,2026-07-31,024_CopyReadAloud,CopyReadAloud,software,,active,,,,,html
+1,2026-07-31,WP_026_WritingImpControl,WritingImpControl,software,,active,,,,,python
+1,2026-07-31,006_BookCoverKindel,BookCoverKindel,software,,active,,,,,python
+1,2026-07-31,WP_022_LitaRanker,LitaRanker,software,,active,,,,Ranks academic articles from RIS files by comparing dataset articles.,python
+1,2026-07-31,WP_028_ScholarMate,ScholarMate,software,,active,,,,A VS Code extension for AI-assisted LaTeX writing.,tex
+1,2026-07-31,WP_033_NOVA-Website,NOVA Website,software,,active,,,,NOVA Online presence.,html
+1,2026-07-31,PP_009_Autobiography,Autobiography,writing,,active,,,,Write an autobiography.,tex
+1,2026-07-31,WP_034_ReadAloud-VsCode,ReadAloud VsCode,software,,active,,,,,javascript
+1,2026-07-31,WP_032_GlyphTrace,GlyphTrace,software,,active,,,,A fully local PDF comparison app that analyzes matching pages.,python
+1,2026-07-31,WP_030_Read-Aloud_Upgrade,Read-Aloud Upgrade,software,,active,,,,,javascript
+1,2026-07-31,PublicShareRepo,PublicShareRepo,software,,active,,,,For sharing files.,
+1,2026-07-31,GluedAI_Command_Center,GluedAI Command Center,software,,proposed,,,,"Create an AI command center that connects AI chat and command-line workflows to any application, understands the connected application, and can make changes within it while the user works.",ai;command-line;app-integration
+1,2026-07-31,SinaGhavidel_com,SinaGhavidel.com,website,,proposed,,,,,
