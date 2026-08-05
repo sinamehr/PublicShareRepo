@@ -1,0 +1,64 @@
+project_name,area,purpose,project_status,repository,has_repository,repository_records,repository_names,locations_total,active_locations,missing_locations,machines_active,machines_all,location_entries
+005_KindelDayCounter,other,,active,005_KindelDayCounter,true,1,005_KindelDayCounter,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|005_KindelDayCounter|git-clone|active|2026-08-05
+006_BookCoverKindel,other,,active,006_BookCoverKindel,true,1,006_BookCoverKindel,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|006_BookCoverKindel|git-clone|active|2026-08-05
+007_BookCoverKindel_Epub,other,,active,007_BookCoverKindel_Epub,true,1,007_BookCoverKindel_Epub,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|007_BookCoverKindel_Epub|git-clone|active|2026-08-05
+001_JobMatch,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|001_JobMatch|project-folder|active|2026-08-05
+002_PasteVsChrome,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|002_PasteVsChrome|project-folder|active|2026-08-05
+003_Pdf Clean,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|003_Pdf Clean|project-folder|active|2026-08-05
+004_Literature Review,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|004_Literature Review|project-folder|active|2026-08-05
+PP_008_Finn-Reader,personal,,active,PP_008_Finn-Reader,true,1,PP_008_Finn-Reader,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|PP_008_Finn Reader|git-clone|active|2026-08-05
+PP_009_Autobiography,personal,>-,active,PP_009_Autobiography,true,1,PP_009_Autobiography,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|PP_009_Autobiography|git-clone|active|2026-08-05
+PP_010_Bibliotek,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|PP_010_Bibliotek|project-folder|active|2026-08-05
+PP_011_Mini Projects,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|PP_011_Mini Projects|project-folder|active|2026-08-05
+PP_012_Prompts,personal,Repository for gathering needed prompts across different machines.,active,PP_012_Prompts,true,1,PP_012_Prompts,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-personal-projects|PP_012_Prompts|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-personal-projects|PP_012_Prompts|git-clone|active|2026-08-05
+PP_013_FINN-Reader_Jobb,personal,,active,PP_013_FINN-Reader_Jobb,true,1,PP_013_FINN-Reader_Jobb,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|PP_013_FINN Reader_Jobb|git-clone|active|2026-08-05
+PublicShareRepo,personal,For sharing files.,active,PublicShareRepo,true,1,PublicShareRepo,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-personal-projects|PublicShareRepo|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-personal-projects|PublicShareRepo|git-clone|active|2026-08-05
+Vs Code Workspaces,personal,,active,,false,0,,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-personal-projects|Vs Code Workspaces|project-folder|active|2026-08-05
+000_Blank project,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|000_Blank project|project-folder|active|2026-08-05
+001_proposal,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|001_proposal|project-folder|active|2026-08-05
+002_Czarnitzki,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|002_Czarnitzki|project-folder|active|2026-08-05
+003_First Paper,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|003_First Paper|project-folder|active|2026-08-05
+004_Coursework,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|004_Coursework|project-folder|active|2026-08-05
+005_Connct and Convo,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|005_Connct and Convo|project-folder|active|2026-08-05
+006_Seminars,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|006_Seminars|project-folder|active|2026-08-05
+007_20% Presentation,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|007_20% Presentation|project-folder|active|2026-08-05
+008_AI Video Generation,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|008_AI Video Generation|project-folder|active|2026-08-05
+009_Books,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|009_Books|project-folder|active|2026-08-05
+010_Archives,phd,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-phd-projects|010_Archives|project-folder|active|2026-08-05
+SYS_001_ProjectRegistry,system,>-,active,SYS_001_ProjectRegistry,true,1,SYS_001_ProjectRegistry,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-personal-projects|SYS_001_ProjectRegistry|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-personal-projects|SYS_001_ProjectRegistry|git-clone|active|2026-08-05
+000_PyCollected,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|000_PyCollected|project-folder|active|2026-08-05
+001_dataINNRefinery,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|001_dataINNRefinery|project-folder|active|2026-08-05
+002_dataINNcutter,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|002_dataINNcutter|project-folder|active|2026-08-05
+003_ToyFolderMaker,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|003_ToyFolderMaker|project-folder|active|2026-08-05
+004_CodeVariable,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|004_CodeVariable|project-folder|active|2026-08-05
+005_UniVar,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|005_UniVar|project-folder|active|2026-08-05
+006_Variabel Translate,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|006_Variabel Translate|project-folder|active|2026-08-05
+007_Tex_version_backup,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|007_Tex_version_backup|project-folder|active|2026-08-05
+008_Phd_project_initialization,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|008_Phd_project_initialization|project-folder|active|2026-08-05
+009_Phd_Project_Rename,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|009_Phd_Project_Rename|project-folder|active|2026-08-05
+010_Readflow,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|010_Readflow|project-folder|active|2026-08-05
+011_RefineryCheck,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|011_RefineryCheck|project-folder|active|2026-08-05
+012_Bib Sync,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|012_Bib Sync|project-folder|active|2026-08-05
+013_Bib Add,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|013_Bib Add|project-folder|active|2026-08-05
+014_AutoTeach,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|014_AutoTeach|project-folder|active|2026-08-05
+015_ThreeEyed,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|015_ThreeEyed|project-folder|active|2026-08-05
+016_RunPandoc,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|016_RunPandoc|project-folder|active|2026-08-05
+017_Gentext,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|017_Gentext|project-folder|active|2026-08-05
+018_Variable Label,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|018_Variable Label|project-folder|active|2026-08-05
+019_Variable CaseMatch,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|019_Variable CaseMatch|project-folder|active|2026-08-05
+020_PyCollector,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|020_PyCollector|project-folder|active|2026-08-05
+021_tests,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|021_tests|project-folder|active|2026-08-05
+022_ArticleRankingApp,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|022_ArticleRankingApp|project-folder|active|2026-08-05
+023_VsChatAloud,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|023_VsChatAloud|project-folder|active|2026-08-05
+024_CopyReadAloud,work,,active,024_CopyReadAloud,true,1,024_CopyReadAloud,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|024_CopyReadAloud|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-work-projects|024_CopyReadAloud|git-clone|active|2026-08-05
+025_PDFtoXml,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|025_PDFtoXml|project-folder|active|2026-08-05
+WP_022_LitaRanker,work,>-,active,WP_022_LitaRanker,true,1,WP_022_LitaRanker,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|022_LitaRanker|git-clone|active|2026-08-05
+WP_026_WritingImpControl,work,,active,WP_026_WritingImpControl,true,1,WP_026_WritingImpControl,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|026_WritingImpControl|git-clone|active|2026-08-05
+WP_028_ScholarMate,work,>-,active,WP_028_ScholarMate,true,1,WP_028_ScholarMate,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_028_ScholarMate|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-work-projects|WP_028_ScholarMate|git-clone|active|2026-08-05
+WP_029_InsightLens,work,>-,active,WP_029_InsightLens,true,1,WP_029_InsightLens,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_029_InsightLens|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-work-projects|WP_029_InsightLens|git-clone|active|2026-08-05
+WP_030_Read-Aloud_Upgrade,work,,active,WP_030_Read-Aloud_Upgrade,true,1,WP_030_Read-Aloud_Upgrade,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_030_Read Aloud_Upgrade|git-clone|active|2026-08-05
+WP_031_FolderStructureScanner,work,,active,,false,0,,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_031_FolderStructureScanner|project-folder|active|2026-08-05
+WP_032_GlyphTrace,work,>-,active,WP_032_GlyphTrace,true,1,WP_032_GlyphTrace,1,1,0,work-hp-elitebook,work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_032_GlyphTrace|git-clone|active|2026-08-05
+WP_033_NOVA-Website,work,NOVA online presence.,active,WP_033_NOVA-Website,true,1,WP_033_NOVA-Website,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-work-projects|WP_033_NOVA Website|git-clone|active|2026-08-05
+WP_034_ReadAloud-VsCode,work,,active,WP_034_ReadAloud-VsCode,true,1,WP_034_ReadAloud-VsCode,1,1,0,personal-mac-m4,personal-mac-m4,personal-mac-m4|personal-mac-work-projects|WP_034_ReadAloud VsCode|git-clone|active|2026-08-05
+WP_27_PriorityCompass,work,,active,WP_27_PriorityCompass,true,1,WP_27_PriorityCompass,2,2,0,personal-mac-m4;work-hp-elitebook,personal-mac-m4;work-hp-elitebook,work-hp-elitebook|work-hp-work-projects|WP_27_PriorityCompass|git-clone|active|2026-08-05;personal-mac-m4|personal-mac-work-projects|WP_27_PriorityCompass|git-clone|active|2026-08-05
